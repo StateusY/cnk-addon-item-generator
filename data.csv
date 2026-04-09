@@ -1,0 +1,15 @@
+Settings,,,within/external,,,,,,,,,,,,,,
+,Dynamic Insertion,Backups,Datapack Place,,,,,,,,,,,,,,
+,FALSE,FALSE,within,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Index,Namespace,ID,Name,Type,Nutrition,Saturation,Loot Group,Category,Workstation,Ing1,Ing2,Ing3,Ing4,Ing5,Color,Ages,Custom Station Proccess
+1,spiced,basil,Basil,ingredient,1,0,food,,,,,,,,,,
+2,spiced,cajun_seasoning,Cajun Seasoning,recipe,0,0.5,food,staple,mortar_and_pestle,spiced.rosemary,spiced.thyme,spiced.oregano,spiced.marjoram,spiced.basil,,,mash
+3,spiced,diced_onion,Diced Onion,recipe,1,1,food,staple,cutting_board,spiced.sliced_onion,,,,,,,
+4,spiced,seared_sausage,Seared Sausage,recipe,10,14,food,light,cooking_pot,minecraft.porkchop,spiced.any_grease,,,,,,
+5,spiced,ethanol,Ethanol,recipe,0,0,other,distiller_book,distiller,minecraft.water,cnk.corn,cnk.cooking_oil,,,0,FALSE,
