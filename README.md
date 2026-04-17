@@ -31,3 +31,5 @@ This script regenerates all the files rather than adds new ones in order to keep
 - The Ingredients (**Ing1**, **Ing2**, **Ing3** ...) are the ingredients used to craft the item. If the item is crafted with a cutting board, only the first item will be considered
 - The **Color** is only to describe the color of brewed drinks in [decimal form](https://minecraft.wiki/w/Data_component_format#custom_model_data)
 - The **Ages** boolean describes if the outputted item should act like wines where they can be aged
+- The **Custom Station Proccess** points to the folder where the custom worstation's processing happens. For example, with the mortar_and_pestle, it is 'mash'
+- The **Distill Lock** describes the time it takes to distill an recipe. This is indicated with a value and a prefix. '15s' is 15 seconds, the normal short_lock for the distiller. '20m' is 20 minutes, the normal lock for the distiller. '5d' is 5 days, a custom lock time that will be generated. '1d' = '20m' = '1200s'

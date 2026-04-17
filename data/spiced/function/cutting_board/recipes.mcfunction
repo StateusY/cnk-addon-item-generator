@@ -1,2 +1,0 @@
-execute if data storage cnk:temp cutting_board.item{components:{"minecraft:custom_data":{"spiced":{"ingredient":{"type":"sliced_onion"}}}}} run return run function spiced:cutting_board/recipes/diced_onion
-execute if data storage cnk:temp cutting_board.item{components:{"minecraft:custom_data":{"spiced":{"ingredient":{"type":"sliced_onion"}}}}} run return run function spiced:cutting_board/recipes/diced_onion
